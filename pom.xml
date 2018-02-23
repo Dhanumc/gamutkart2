@@ -34,10 +34,8 @@
   </snapshotRepository>		
 </distributionManagement>
 
-	<build>
-		<finalName>gamutkart</finalName>
-	</build>
-	<build>
+<build>
+<finalName>gamutkart</finalName>
   <plugins>
     <plugin>
        <groupId>org.sonatype.plugins</groupId>
